@@ -96,6 +96,5 @@ Asegúrate de configurar las variables de entorno necesarias para la API, como l
    ```
 3. Inicia el servidor:
    ```bash
-   npm start
    PORT=5001 npm start
    ```
